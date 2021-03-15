@@ -43,6 +43,10 @@ p{
 }
 pre{
     text-align: left;
+    font-family: 'Playfair Display', serif;
+    color: #1B4332;
+    
+    font-size: 1.5em;
 }
 a{
     color: #1B4332;
